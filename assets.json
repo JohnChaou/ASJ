@@ -1,3 +1,7 @@
 {
-  "name": "purple color"
+  "styles": {
+    "color": {},
+    "fonts": {}
+  },
+  "script": {}
 }
