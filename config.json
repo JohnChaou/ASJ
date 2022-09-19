@@ -43,7 +43,26 @@
       "blueGreyHover": "blueGreyHover",
       "percentage1": "percentage1"
     },
-    "fonts": {}
+    "fonts": {
+        "h1": "h1",
+        "h2": "h2",
+        "h3": "h3",
+        "h4": "h4",
+        "h5": "h5",
+        "subTitle1": "subTitle1",
+        "subTitle2": "subTitle2",
+        "body1": "body1",
+        "body1Link": "body1Link",
+        "body2": "body2",
+        "body2Link": "body2Link",
+        "caption": "caption",
+        "captionBold": "captionBold",
+        "small": "small",
+        "smallLink": "smallLink",
+        "smallBold": "smallBold",
+        "superSmall": "superSmall",
+        "superSmallLink": "superSmallLink"
+    }
   },
   "scripts": {}
 }
